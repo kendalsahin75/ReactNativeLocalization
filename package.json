@@ -37,7 +37,7 @@
     "babel-preset-env": "^1.6.1"
   },
   "peerDependencies": {
-    "react-native": "0.63.4",
-    "react-native-windows": "0.64.13"
+    "react-native": "*",
+    "react-native-windows": "0.64.5"
   }
 }
